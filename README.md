@@ -1,6 +1,7 @@
 # SmartMatch
 
 > Intelligent Decision Support System for matching students with internship opportunities.
+> 
 > Fictional dataset created for academic purposes
 
 SmartMatch is an academic project built with **SQL Server**, **Python**, and **Power BI** that automates the compatibility scoring between student profiles and job vacancies, using a weighted algorithm based on Hard Skills, Soft Skills, and logistics preferences.
