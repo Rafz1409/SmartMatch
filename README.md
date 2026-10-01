@@ -21,10 +21,10 @@ SmartMatch is an academic project built with **SQL Server**, **Python**, and **P
 
 ```
 SmartMatch/
-├── database/          # SQL scripts — schema + seed data
-├── engine/            # Python recommendation engine
+├── assets/            # Dashboard screenshots
 ├── dashboard/         # Power BI dashboard (.pbix)
-└── assets/            # Dashboard screenshots
+├── database/          # SQL scripts — schema + seed data
+└── engine/            # Python recommendation engine
 ```
 
 ---
