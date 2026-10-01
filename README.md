@@ -24,7 +24,6 @@ SmartMatch/
 ├── database/          # SQL scripts — schema + seed data
 ├── engine/            # Python recommendation engine
 ├── dashboard/         # Power BI dashboard (.pbix)
-├── docs/              # Project proposal and documentation
 └── assets/            # Dashboard screenshots
 ```
 
